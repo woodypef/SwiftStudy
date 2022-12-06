@@ -20,6 +20,7 @@
 		84238BEB293EF78400EDDFFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84238BED293EF78400EDDFFD /* MyFirstApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MyFirstApp.entitlements; sourceTree = "<group>"; };
 		84238BEF293EF78400EDDFFD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		84238BF6293EF8C500EDDFFD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				84238BEB293EF78400EDDFFD /* Assets.xcassets */,
 				84238BED293EF78400EDDFFD /* MyFirstApp.entitlements */,
 				84238BEE293EF78400EDDFFD /* Preview Content */,
+				84238BF6293EF8C500EDDFFD /* README.md */,
 			);
 			path = MyFirstApp;
 			sourceTree = "<group>";
